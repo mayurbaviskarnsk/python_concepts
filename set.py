@@ -1,4 +1,4 @@
-
+# Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members
 # syntax to write set variable
 var_set = {10,20,30,40,50}    # Sysntax {}
 
@@ -58,5 +58,5 @@ var_set = {10,20,30,40,50}    # Sysntax {}
 # print(set1)
 
 
-set1 = {1,2,3}
-set2 = {4,5,6}
+# set1 = {1,2,3}
+# set2 = {4,5,6}
