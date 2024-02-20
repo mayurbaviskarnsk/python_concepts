@@ -19,16 +19,16 @@
 # # access using range
 # print(tuple_items[0:3])
 
-# start to second index
+# # start to second index
 # print(tuple_items[:3])
-# second index to last
+# # second index to last
 # print(tuple_items[3:])
 
 # # to iterate all values in tuple
 # for x in tuple_items:
 #     print(x)
 
-# # tuple allow duplicate
+# # # tuple allow duplicate
 # tuple_items1 = [10,20,30,40,50,60,10,20]
 # print(tuple_items1)
 
